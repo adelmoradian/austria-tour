@@ -6,9 +6,9 @@
 header_use_video: true
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/favicon.png"
+header_logo: "images/mountain-sun.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "In dem moment"
-header_subheadline: "<b>Meditation</b> & <b>Music</b> to bring you in the moment"
+header_headline: "In the moment"
+header_subheadline: "<u>Time to be with your self</u>"
 ---
