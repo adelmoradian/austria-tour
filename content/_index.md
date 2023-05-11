@@ -10,5 +10,5 @@ header_logo: "images/mountain-sun.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "In the moment"
-header_subheadline: "<u>Time to be with your self</u>"
+header_subheadline: "<u>Be with your self</u>"
 ---
