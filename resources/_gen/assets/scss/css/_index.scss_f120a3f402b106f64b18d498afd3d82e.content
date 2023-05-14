@@ -1,15 +1,15 @@
 :root {
   /* === Cover / Landing area === */
-  --cover-text-color: #10273a;
+  --cover-text-color: white;
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #FFFFFF;
+  --highlight: #10273a;
   --highlight-contrast: var(--cover-text-color);
   /*iverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
-  --highlight-inverse-contrast: white;
+  --highlight-inverse-contrast: #10273a;
   /* visual guard around title and description, when the feature is enabled */
   --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
-  --cover-title-text-shadow: white 0px 0px 5px;
+  --cover-title-text-shadow: #10273a 0px 0px 5px;
   /* === sticky top/left navigation menus === */
   --sticky-menu-text-color: #0277BD;
   /* === Alternating content (post) sections  === */
@@ -36,7 +36,7 @@ body {
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 100px;
+  max-height: 200px;
   width: auto;
   margin: 0 auto;
   line-height: 0; }
