@@ -9,6 +9,6 @@ header_use_video: true
 header_logo: "images/mountain-sun.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "In The Moment"
+header_headline: "Im Moment"
 header_subheadline: "<u>Be one with your Self</u>"
 ---
