@@ -1,7 +1,7 @@
 ---
 title: ""
-header_menu_title: "Contact us"
-navigation_menu_title: "Contact us"
+header_menu_title: "Kontaktiere uns"
+navigation_menu_title: "Kontaktiere uns"
 weight: 4
 header_menu: true
 ---
@@ -37,4 +37,4 @@ header_menu: true
 </html>
 {{< /rawhtml >}}
 
-P.S. We don't use cookies or any other tracking tech on this website.
+P.S. Wir verwenden auf dieser Website keine Cookies oder andere Tracking-Technologien.

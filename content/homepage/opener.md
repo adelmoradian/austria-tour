@@ -1,23 +1,23 @@
 ---
-title: "Intro"
-header_menu_title: "Intro"
-navigation_menu_title: "Intro"
+title: "Einführung"
+header_menu_title: "Einführung"
+navigation_menu_title: "Einführung"
 header_menu: true
 weight: 1
 ---
 
-Somewhere between work and studies, social life and relationships, latest tech trends and existential threats,
-we seem to have lost the connection to our deeper self. Endlessly swinging between one and the other, we rarely
-seem to have any spare attention for the soul, the more subtle part of our being.
+Irgendwo zwischen Arbeit und Studium, sozialem Leben und Beziehungen, neuesten Technologietrends und existenziellen Bedrohungen scheinen
+wir die Verbindung zu unserem tieferen Selbst verloren zu haben. Endlos zwischen einem und dem anderen hin- und herpendelnd haben wir
+selten genügend Aufmerksamkeit für die Seele, den subtileren Teil unseres Seins.
 
-Sometimes a little reminder goes a long way...
+Manchmal kann eine kleine Erinnerung viel bewirken...
 
-With the help of meditation, music and a daring dash of spontaneity, we hope to remind you of these subtleties and
-give you joyful moments that can bring you closer to your deeper self.
+Mit Hilfe von Meditation, Musik und einer wagemutigen Prise Spontaneität hoffen wir, Sie an diese Feinheiten zu erinnern und Ihnen Freude
+zu bereiten, die Sie Ihrem tieferen Selbst näherbringen können.
 
-Between the noise and beyond time, in the moment
+Zwischen dem Lärm und jenseits der Zeit, im Moment.
 
-Coming second half of July to **Graz, Klagenfurt, Innsbruck, Salzburg,**
-**Linz, St.Pölten, Horn and Wiener Neustadt.**
+Ab Mitte Juli in **Graz**, **Klagenfurt**, **Innsbruck**, **Salzburg**,
+**Linz**, **St. Pölten**, **Horn** und **Wiener Neustadt**.
 
 ![Meditation](images/col-1.png)

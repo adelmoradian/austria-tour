@@ -1,7 +1,7 @@
 ---
-title: "Programs"
-header_menu_title: "Programs"
-navigation_menu_title: "Programs"
+title: "Programme"
+header_menu_title: "Programme"
+navigation_menu_title: "Programme"
 weight: 2
 header_menu: true
 ---
