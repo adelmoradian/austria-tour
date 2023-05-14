@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "In the moment"
+title = "In The Moment"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -35,7 +35,7 @@ title = "In the moment"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "In the moment"
+    title = "In The Moment"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "With the help of meditation, music and a daring dash of spontaneity, we hope to remind you of these subtleties and give you joyful moments that can bring you closer to your deeper self."
