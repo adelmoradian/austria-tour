@@ -12,12 +12,9 @@ seem to have any spare attention for the soul, the more subtle part of our being
 
 Sometimes a little reminder goes a long way...
 
-With the help of meditation, music and a daring dash of spontaneity, we hope to remind you of these subtleties and
-give you joyful moments that can bring you closer to your deeper self.
+We invite you to embrace the present moment and together, embark on a remarkable experience where the ancient wisdom of meditation
+and the universal language of music intertwine, paving the way for a profound reconnection with the soul.
 
-Between the noise and beyond time, in the moment
-
-Coming second half of July to **Graz, Klagenfurt, Innsbruck, Salzburg,**
-**Linz, St.Pölten, Horn and Wiener Neustadt.**
+Concerts in Klagenfurt, Salzburg, Linz, St.Pölten, Horn and Wiener Neustadt.
 
 ![Meditation](images/col-1.png)
