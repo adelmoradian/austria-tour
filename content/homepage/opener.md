@@ -12,12 +12,9 @@ selten genügend Aufmerksamkeit für die Seele, den subtileren Teil unseres Sein
 
 Manchmal kann eine kleine Erinnerung viel bewirken...
 
-Mit Hilfe von Meditation, Musik und einer wagemutigen Prise Spontaneität hoffen wir, Sie an diese Feinheiten zu erinnern und Ihnen Freude
-zu bereiten, die Sie Ihrem tieferen Selbst näherbringen können.
+Wir laden Sie ein, den gegenwärtigen Moment zu umarmen und gemeinsam eine bemerkenswerte Erfahrung zu machen, bei der sich die alte Weisheit
+der Meditation und die universelle Sprache der Musik miteinander verweben und den Weg für eine tiefgreifende Wiederverbindung mit der Seele ebnen.
 
-Zwischen dem Lärm und jenseits der Zeit, im Moment.
-
-Ab Mitte Juli in **Graz**, **Klagenfurt**, **Innsbruck**, **Salzburg**,
-**Linz**, **St. Pölten**, **Horn** und **Wiener Neustadt**.
+Konzerte in Klagenfurt, Salzburg, Linz, St. Pölten, Horn und Wiener Neustadt.
 
 ![Meditation](images/col-1.png)
