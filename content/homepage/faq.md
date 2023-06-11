@@ -1,23 +1,20 @@
 ---
-title: "FAQ (Häufig gestellte Fragen)"
+title: "FAQ"
 header_menu_title: "FAQ"
 navigation_menu_title: "FAQ"
 weight: 3
 header_menu: true
 ---
 
-{{<icon class="fa fa-question-circle">}}&nbsp;**Wie viel kostet es?** Alle Programme in dieser Tour sind kostenlos. Keine Haken, keine Verpflichtungen.
+{{<icon class="fa fa-question-circle">}}&nbsp;**How much does it cost?** All the programs in this tour are free. No catches, no strings attached.
 
-{{<icon class="fa fa-question-circle">}}&nbsp;**Warum ist es kostenlos?** Das ist nicht unser Job oder eine Einkommensquelle. Wir sind einfach
-leidenschaftlich für unsere Sache und möchten mit anderen Erfahrungen teilen, die uns in unserem individuellen Leben geholfen haben.
+{{<icon class="fa fa-question-circle">}}&nbsp;**Why is it for free?** This is not our job or a source of income. We are simply passionate about our
+cause and would like to share with others, experiences that have helped us in our individual lives.
 
-{{<icon class="fa fa-question-circle">}}&nbsp;**Warum macht ihr das?** Weil wir wirklich glauben, dass die Menschen in der modernen Zeit mehr denn
-je darauf angewiesen sind, sich selbst zu verstehen und daran erinnert zu werden, dass es im Leben mehr gibt als das, was man auf den ersten Blick sieht.
+{{<icon class="fa fa-question-circle">}}&nbsp;**Why are you doing this?** Because we really do believe that in modern times, people are more than
+ever in need of understanding their selves and to be reminded that there is more to life than meets the eye.
 
-{{<icon class="fa fa-question-circle">}}&nbsp;**Muss ich mich registrieren?** Wir würden uns freuen, wenn Sie sich für Programme in einem Saal
-registrieren könnten. Bitte beachten Sie oben für weitere Details.
+{{<icon class="fa fa-question-circle">}}&nbsp;**Do I need to bring anything?** Nope! just come as you are.
 
-{{<icon class="fa fa-question-circle">}}&nbsp;**Muss ich etwas mitbringen?** Nein! Komm einfach so, wie du bist.
-
-{{<icon class="fa fa-question-circle">}}&nbsp;**Ich habe aufgehört, meine Gedanken zu kontrollieren oder irgendeinen Sinn in meinem Leben zu finden.**
-Dann verlierst du nicht viel, wenn du es versuchst. Du könntest angenehm überrascht sein!
+{{<icon class="fa fa-question-circle">}}&nbsp;**I have given up on controlling my thoughts or finding any meaning in my life?**
+Then you won’t loose much by giving this a try. You might be pleasantly surprised!

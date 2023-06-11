@@ -1,20 +1,19 @@
 ---
-title: "Einführung"
-header_menu_title: "Einführung"
-navigation_menu_title: "Einführung"
+title: "Intro"
+header_menu_title: "Intro"
+navigation_menu_title: "Intro"
 header_menu: true
 weight: 1
 ---
 
-Irgendwo zwischen Arbeit und Studium, sozialem Leben und Beziehungen, neuesten Technologietrends und existenziellen Bedrohungen scheinen
-wir die Verbindung zu unserem tieferen Selbst verloren zu haben. Endlos zwischen einem und dem anderen hin- und herpendelnd haben wir
-selten genügend Aufmerksamkeit für die Seele, den subtileren Teil unseres Seins.
+Somewhere between work and studies, social life and relationships, latest tech trends and existential threats, we seem to have lost the connection
+to our deeper self. Endlessly swinging between one and the other, we rarely seem to have any spare attention for the soul, the more subtle part of our being.
 
-Manchmal kann eine kleine Erinnerung viel bewirken...
+Sometimes a little reminder goes a long way…
 
-Wir laden Sie ein, den gegenwärtigen Moment zu umarmen und gemeinsam eine bemerkenswerte Erfahrung zu machen, bei der sich die alte Weisheit
-der Meditation und die universelle Sprache der Musik miteinander verweben und den Weg für eine tiefgreifende Wiederverbindung mit der Seele ebnen.
+We invite you to embrace the present moment and together, embark on a remarkable experience where the ancient wisdom of meditation and the universal
+language of music intertwine, paving the way for a profound reconnection with the soul.
 
-Konzerte in Klagenfurt, Salzburg, St. Pölten, Horn und Wiener Neustadt.
+Concerts in Klagenfurt, Salzburg, St.Pölten, Horn and Wiener Neustadt.
 
 ![Meditation](images/col-1.png)
