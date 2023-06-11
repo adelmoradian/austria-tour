@@ -15,6 +15,6 @@ Manchmal kann eine kleine Erinnerung viel bewirken...
 Wir laden Sie ein, den gegenwärtigen Moment zu umarmen und gemeinsam eine bemerkenswerte Erfahrung zu machen, bei der sich die alte Weisheit
 der Meditation und die universelle Sprache der Musik miteinander verweben und den Weg für eine tiefgreifende Wiederverbindung mit der Seele ebnen.
 
-Konzerte in Klagenfurt, Salzburg, Linz, St. Pölten, Horn und Wiener Neustadt.
+Konzerte in Klagenfurt, Salzburg, St. Pölten, Horn und Wiener Neustadt.
 
 ![Meditation](images/col-1.png)
