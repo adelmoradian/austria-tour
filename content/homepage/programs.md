@@ -13,7 +13,7 @@ header_menu: true
 
 {{<icon class="fa fa-road">}}&nbsp;**Salzburg**
 | {{<icon class="fa fa-calendar">}}&nbsp;25/07
-| {{<icon class="fa fa-clock-o">}}&nbsp;TBD
+| {{<icon class="fa fa-clock-o">}}&nbsp;19:00
 | {{<icon class="fa fa-map-marker">}}&nbsp;[Steintheater Hellbrunn](https://goo.gl/maps/BGKwq3ceee4dWFcj9)
 
 {{<icon class="fa fa-road">}}&nbsp;**St.Pölten**
