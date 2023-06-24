@@ -14,6 +14,6 @@ Sometimes a little reminder goes a long way…
 We invite you to embrace the present moment and together, embark on a remarkable experience where the ancient wisdom of meditation and the universal
 language of music intertwine, paving the way for a profound reconnection with the soul.
 
-Concerts in Klagenfurt, Salzburg, St.Pölten, Horn and Wiener Neustadt.
+Concerts in Klagenfurt, St.Pölten, Horn and Wiener Neustadt.
 
 ![Meditation](images/col-1.png)
