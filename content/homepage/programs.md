@@ -11,11 +11,6 @@ header_menu: true
 | {{<icon class="fa fa-clock-o">}}&nbsp;19:00
 | {{<icon class="fa fa-map-marker">}}&nbsp;[Gemeindezentrum St.Ruprecht](https://goo.gl/maps/p6htgChd1tVhQUn76)
 
-{{<icon class="fa fa-road">}}&nbsp;**Salzburg**
-| {{<icon class="fa fa-calendar">}}&nbsp;25/07
-| {{<icon class="fa fa-clock-o">}}&nbsp;19:00
-| {{<icon class="fa fa-map-marker">}}&nbsp;[Steintheater Hellbrunn](https://goo.gl/maps/BGKwq3ceee4dWFcj9)
-
 {{<icon class="fa fa-road">}}&nbsp;**St.Pölten**
 | {{<icon class="fa fa-calendar">}}&nbsp;28/07
 | {{<icon class="fa fa-clock-o">}}&nbsp;17:00
