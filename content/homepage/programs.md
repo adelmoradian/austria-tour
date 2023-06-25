@@ -18,7 +18,7 @@ header_menu: true
 
 {{<icon class="fa fa-road">}}&nbsp;**Horn**
 | {{<icon class="fa fa-calendar">}}&nbsp;29/07
-| {{<icon class="fa fa-clock-o">}}&nbsp;17:00
+| {{<icon class="fa fa-clock-o">}}&nbsp;18:00
 | {{<icon class="fa fa-map-marker">}}&nbsp;[Der Horner Stadtsee](https://goo.gl/maps/TAAHA9ZZneecc8um6)
 
 {{<icon class="fa fa-road">}}&nbsp;**Wiener Neustadt**
